@@ -35,7 +35,7 @@ public class LoadSavePanel extends JPanel {
 		new PDFPrinter(model.getArchipelago()).createPDF();
 
 		JOptionPane.showMessageDialog(null,
-			"document TuinPrint.pdf gecre‘erd in " + System.getProperty("user.home"));
+			"document TuinPrint.pdf gecreÃ«erd in " + System.getProperty("user.home"));
 
 	    }
 
