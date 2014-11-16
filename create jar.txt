@@ -1,0 +1,4 @@
+maak jaar: 
+java cfm GardenOrganizer.jar Manifest.txt ./*
+
+uitvoeren in build folder

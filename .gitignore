@@ -1,0 +1,10 @@
+build/
+dist/
+antbuild/
+.svn/
+.settings/
+.project
+.classpath
+nbproject/
+**/.svn/
+libs/
