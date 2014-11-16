@@ -8,3 +8,5 @@ antbuild/
 nbproject/
 **/.svn/
 libs/
+.nb-gradle-properties
+.nb-gradle/
